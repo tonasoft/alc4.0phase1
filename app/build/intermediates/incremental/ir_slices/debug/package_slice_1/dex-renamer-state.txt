@@ -1,0 +1,4 @@
+#Sun Jul 14 22:05:44 BST 2019
+base.0=C\:\\Users\\admin\\alc4app-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
